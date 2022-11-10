@@ -11,7 +11,7 @@
     <li><a href="#license">License</a></li>
   </ol>
 
-##Link :- https://weatherapp-delta-navy.vercel.app/
+## Link :- https://weatherapp-delta-navy.vercel.app/
 
 ## About The Project
 <img src="https://github.com/nagarajpandith/weather-app/blob/main/images/Screenshot%202021-08-29%20at%208.15.21%20PM-min.png">
